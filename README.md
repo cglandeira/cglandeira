@@ -1,16 +1,15 @@
-## Hi there 👋
+<h2>Computational Science Projects:</h2>
 
-<!--
-**cglandeira/cglandeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Euclidian TSP with introduced human error</b>
+  - [Taylor Series Analysis](https://github.com/cglandeira/Euclidian-TSP)
 
-Here are some ideas to get you started:
+- <b>Analysis of Taylor Series Approximation, Precision Errors, and Function Conditioning</b>
+  - [Taylor Series Analysis](https://github.com/cglandeira/Taylor-Series)
+ 
+- <b>Analysis of Taylor Series Approximation, Precision Errors, and Function Conditioning</b>
+  - [Taylor Series Analysis](https://github.com/cglandeira/Taylor-Series)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Optimization Challenges in Fast Food Location Selection and Tower Climbing Navigation</b>
+  - [Dijkstra's Algorithm and More](https://github.com/cglandeira/Dijkstra-s-algo-and-more)
+
+<h2>Cybersecurity Projects:</h2>
