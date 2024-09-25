@@ -12,4 +12,4 @@
 - <b>Optimization Challenges in Fast Food Location Selection and Tower Climbing Navigation</b>
   - [Dijkstra's Algorithm and More](https://github.com/cglandeira/Dijkstra-s-algo-and-more)
 
-<h2>Cybersecurity Projects:</h2>
+<!--- <h2>Cybersecurity Projects:</h2>
